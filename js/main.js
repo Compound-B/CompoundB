@@ -202,7 +202,7 @@
 			map: map,
 			draggable: true,
 			animation: google.maps.Animation.BOUNCE,
-			position: new google.maps.LatLng(40.6700, -73.9400)
+			position: new google.maps.LatLng(37.8044, 122.2711
 		});
 		marker.setAnimation(google.maps.Animation.BOUNCE);
 	}
